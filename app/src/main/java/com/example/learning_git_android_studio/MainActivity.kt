@@ -13,3 +13,4 @@ class MainActivity : AppCompatActivity() {
 // edit 1 ti
 // them commit 5
 // them commit 6 cua branch 1
+// them commit 10 ơ branch 1
